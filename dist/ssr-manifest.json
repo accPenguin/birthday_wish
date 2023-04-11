@@ -1,0 +1,62 @@
+{
+  "vite/modulepreload-polyfill": [],
+  "node_modules/@intlify/shared/dist/shared.esm-bundler.js": [],
+  "node_modules/@intlify/message-compiler/dist/message-compiler.esm-bundler.js": [],
+  "node_modules/@intlify/devtools-if/dist/devtools-if.esm-bundler.js": [],
+  "node_modules/@intlify/core-base/dist/core-base.esm-bundler.js": [],
+  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
+  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [],
+  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [],
+  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
+  "node_modules/vue-i18n/dist/vue-i18n.runtime.esm-bundler.js": [],
+  "src/modules/i18n.ts": [],
+  "\u0000commonjsHelpers.js": [],
+  "\u0000D:/GitHub_Data/WEB/birthday-master/node_modules/nprogress/nprogress.js?commonjs-module": [],
+  "node_modules/nprogress/nprogress.js": [],
+  "src/modules/nprogress.ts": [],
+  "node_modules/vue-demi/lib/index.mjs": [],
+  "node_modules/pinia/dist/pinia.mjs": [],
+  "src/modules/pinia.ts": [],
+  "vite/preload-helper": [],
+  "src/modules/pwa.ts": [],
+  "node_modules/vue-router/dist/vue-router.mjs": [],
+  "node_modules/@vueuse/head/dist/index.mjs": [],
+  "node_modules/vite-ssg/dist/chunks/state.mjs": [],
+  "node_modules/vite-ssg/dist/chunks/ClientOnly.mjs": [],
+  "node_modules/vite-ssg/dist/index.mjs": [],
+  "src/components/BestWish.vue?vue&type=style&index=0&lang.scss": [],
+  "src/components/BestWish.vue": [],
+  "src/components/BirthdayCake.vue?vue&type=style&index=0&scoped=true&lang.scss": [],
+  "plugin-vue:export-helper": [],
+  "src/components/BirthdayCake.vue": [],
+  "node_modules/@vueuse/sound/dist/esm/index.js": [],
+  "src/utils/bubble.ts": [],
+  "src/pages/index.vue?vue&type=style&index=0&scoped=true&lang.scss": [],
+  "src/pages/index.vue": [],
+  "../../../@vite-plugin-pages/generated-pages?id=virtual:generated-pages": [],
+  "src/layouts/default.vue": [],
+  "../../../@vite-plugin-vue-layouts/generated-layouts": [],
+  "src/App.vue": [],
+  "src/styles/vars.scss": [],
+  "src/styles/index.scss": [],
+  "../../../__uno.css": [],
+  "src/utils/egg.ts": [],
+  "src/main.ts": [],
+  "index.html": [],
+  "assets/app.e62901d2.js-unocss-hash.css": [],
+  "../../../@vite-plugin-pwa/virtual:pwa-register": [
+    "/assets/virtual_pwa-register.09448e92.js"
+  ],
+  "src/pages/about.md": [
+    "/assets/about.88dc95e2.js"
+  ],
+  "src/layouts/404.vue": [
+    "/assets/404.f3773249.js"
+  ],
+  "node_modules/@vueuse/sound/dist/esm/howler-c6e37a5c.js": [
+    "/assets/howler-c6e37a5c.efc1b184.js"
+  ],
+  "node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
+    "/assets/workbox-window.prod.es5.d2780aeb.js"
+  ]
+}
